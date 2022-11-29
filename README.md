@@ -1,4 +1,5 @@
-# This is a deep learning introduction repository where we use tensorflow
+# INTRODUCTION TO DEEPLEARNING NOTEBOOKS
+<hr/>
 
 * Each lecture is seperated with different jupiter notebook
 
